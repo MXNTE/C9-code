@@ -1,4 +1,17 @@
-p{
-    color: blue;
-    font-family: cursive;
+body{
+	font-size:16px;
+	color:#fff;
+	background-color: #61122f;
+	font-family: Oxygen, san-serif;
+	
+	
+	
+}
+
+#header-nav{
+	background-color: yellow;
+	border-radius: 0;
+	border:0;
+	
+	
 }
